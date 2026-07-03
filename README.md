@@ -27,7 +27,7 @@ That's the fastest way to judge the work. Everything below is for running it you
 python3 -m streamlit run streamlit_app.py     # run locally
 ```
 
-**Deploy free (so a hiring manager just clicks a link):**
+**Deploy free (so you can just click a link):**
 
 1. Push the repo to GitHub (include `streamlit_app.py`, `core.py`, `demo_findings.json`, `transcripts/`, and `requirements.txt`).
 2. Go to [share.streamlit.io](https://share.streamlit.io), sign in with GitHub, and click **New app**.
